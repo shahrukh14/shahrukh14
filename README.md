@@ -1,16 +1,61 @@
-## Hi there 👋
+<!-- Header -->
+<h1 align="center">Hola 👋, I'm Mohammed Shahrukh</h1>
+<h3 align="center">Full Stack Developer | Laravel • React • REST APIs</h3>
 
-<!--
-**shahrukh14/shahrukh14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me  
+- 💼 3.5+ years of professional experience in **PHP (Laravel)** and **React.js**  
+- ⚙️ Building scalable apps, REST APIs & real-time dashboards  
+- 🌱 Currently exploring **Next.js** and **Cloud Deployments (AWS, Docker)**  
+- 💬 Ask me about **Laravel architecture, React components, or API integrations**  
+- 📫 Reach me at **mohammedshahrukhalam@email.com**  
+- 📍 Based in **Bhubaneswar, India**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Languages and Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,react,javascript,html,css,tailwind,mysql,git,github,vscode,aws" />
+</p>
+
+---
+
+### 🚀 Featured Projects  
+| Project | Description | Tech Stack |
+|----------|--------------|------------|
+| 🎟️ [Seat Booking System](https://github.com/mohammed-shahrukh/seat-booking-system) | Interactive seat map with vue-konva | Laravel, Vue.js |
+| ⚡ [Recharge API](https://github.com/mohammed-shahrukh/recharge-api) | Recharge API with queued jobs & logs | Laravel |
+| 📊 [Material Record Book](https://github.com/mohammed-shahrukh/material-record-book) | Dynamic Excel exports | Laravel |
+| 🔊 [Audio Compressor](https://github.com/mohammed-shahrukh/audio-compressor) | Compress and split large audio uploads | Laravel |
+
+---
+
+### 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahrukh14&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahrukh14&theme=radical" alt="streak" />
+</p>
+
+---
+
+### 🧩 Most Used Languages  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahrukh14&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🌐 Connect With Me  
+<p align="left">
+<a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
+</a>
+<a href="mailto:your@email.com">
+  <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail" />
+</a>
+</p>
+
+---
+
+⭐️ *From [Mohammed Shahrukh](https://github.com/shahrukh14)*
