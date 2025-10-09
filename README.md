@@ -24,7 +24,7 @@
 ### 🚀 Featured Projects  
 | Project | Description | Tech Stack |
 |----------|--------------|------------|
-| 🎟️ [Seat Booking System](https://github.com/mohammed-shahrukh/seat-booking-system) | Interactive seat map with vue-konva | Laravel, Vue.js |
+| 🎙 [Transcription AI](https://github.com/shahrukh14/transcription-ai) | Audio and Video compression, split and transcription using AI | Laravel, JavasSript|
 | ⚡ [Recharge API](https://github.com/mohammed-shahrukh/recharge-api) | Recharge API with queued jobs & logs | Laravel |
 | 📊 [Material Record Book](https://github.com/mohammed-shahrukh/material-record-book) | Dynamic Excel exports | Laravel |
 | 🔊 [Audio Compressor](https://github.com/mohammed-shahrukh/audio-compressor) | Compress and split large audio uploads | Laravel |
@@ -48,10 +48,10 @@
 
 ### 🌐 Connect With Me  
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin" target="_blank">
+<a href="https://www.linkedin.com/in/mohammed-shahrukh-alam-6b5aa3234/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
 </a>
-<a href="mailto:your@email.com">
+<a href="mailto:mohammedshahrukhalam@gmail.com @email.com">
   <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail" />
 </a>
 </p>
