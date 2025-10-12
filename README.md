@@ -25,9 +25,7 @@
 | Project | Description | Tech Stack |
 |----------|--------------|------------|
 | 🎙 [Transcription AI](https://github.com/shahrukh14/transcription-ai) | Audio and Video compression, split and transcription using AI | Laravel, JavasSript|
-| ⚡ [Recharge API](https://github.com/mohammed-shahrukh/recharge-api) | Recharge API with queued jobs & logs | Laravel |
-| 📊 [Material Record Book](https://github.com/mohammed-shahrukh/material-record-book) | Dynamic Excel exports | Laravel |
-| 🔊 [Audio Compressor](https://github.com/mohammed-shahrukh/audio-compressor) | Compress and split large audio uploads | Laravel |
+| 📝[Task Management System](https://github.com/shahrukh14/Task-Management-with-React-Laravel) | Task Management Project with React Frontend and Laravel API with Token based authentication | Laravel, React JS|
 
 ---
 
