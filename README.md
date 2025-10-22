@@ -26,6 +26,7 @@
 |----------|--------------|------------|
 | 🎙 [Transcription AI](https://github.com/shahrukh14/transcription-ai) | Audio and Video compression, split and transcription using AI | Laravel, JavasSript|
 | 📝[Task Management System](https://github.com/shahrukh14/Task-Management-with-React-Laravel) | Task Management Project with React Frontend and Laravel API with Token based authentication | Laravel, React JS|
+| 🌍[Chariry Websit](https://github.com/shahrukh14/charity-website) | Charity Donation Web Application built with Laravel and React + Vite. | Laravel, React JS|
 
 ---
 
