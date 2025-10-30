@@ -5,9 +5,9 @@
 ---
 
 ### 👨‍💻 About Me  
-- 💼 3.5+ years of professional experience in **PHP (Laravel)** and **React.js**  
-- ⚙️ Building scalable apps, REST APIs & real-time dashboards  
-- 🌱 Currently exploring **Next.js** and **Artificial Intelligence**  
+- 💼 3.5+ years of professional experience in **PHP, Laravel, JavaScript ,React.js, MySQL**  
+- ⚙️ Building scalable and functinal websites with atmost optimizations  
+- 🌱 Currently exploring **Node.js** and **Artificial Intelligence**  
 - 💬 Ask me about **Laravel architecture, React components, or API integrations**  
 - 📫 Reach me at **mohammedshahrukhalam@email.com**  
 - 📍 Based in **Bhubaneswar, India**
