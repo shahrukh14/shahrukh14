@@ -28,7 +28,7 @@
 | 📝[Task Management System](https://github.com/shahrukh14/Task-Management-with-React-Laravel) | Task Management Project with React Frontend and Laravel API with Token based authentication | Laravel, React JS|
 | 🌍[Chariry Websit](https://github.com/shahrukh14/charity-website) | Charity Donation Web Application built with Laravel and React + Vite. | Laravel, React JS|
 | 🏨[Hotel-Booking-System](https://github.com/shahrukh14/Hotel-Booking-System) | Hotel Booking System Using PHP Laravel & Google Firebase Authentication | PHP Laravel |
-| 📸[Image-Stock](https://github.com/shahrukh14/image-stock) | 
+| 📸[Image-Stock](https://github.com/shahrukh14/image-stock) | Image Stock is a Laravel + JavaScript based platform for downloading and purchasing images, vectors, and videos
 
 ---
 
