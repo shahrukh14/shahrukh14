@@ -16,7 +16,7 @@
 
 ### 🧠 Languages and Tools  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,react,javascript,html,css,tailwind,mysql,git,github,vscode,aws" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,react,vue,javascript,html,css,tailwind,mysql,git,github,vscode,aws" />
 </p>
 
 ---
