@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hola 👋, I'm Mohammed Shahrukh</h1>
-<h3 align="center">Full Stack Developer | Laravel • React • REST APIs</h3>
+<h3 align="center">Full Stack Developer | Laravel • React • SQL</h3>
 
 ---
 
