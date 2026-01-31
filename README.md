@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me  
 - 💼 3.5+ years of professional experience in **PHP, Laravel, JavaScript ,React.js, MySQL**  
-- ⚙️ Building scalable and functinal websites with atmost optimizations  
+- ⚙️ Building scalable and functinal websites with atmost optimization  
 - 🌱 Currently exploring **Node.js,Vue.js** and **Artificial Intelligence**  
 - 💬 Ask me about **Laravel architecture, React components or API integrations**  
 - 📫 Reach me at **mohammedshahrukhalam@email.com**  
