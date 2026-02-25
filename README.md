@@ -5,7 +5,7 @@
 ----
 
 ### 👨‍💻 About Me 
-- 💼 3.5+ years of professional experience in **PHP, Laravel, JavaScript ,React.js, MySQL**  
+- 💼 4+ years of professional experience in **PHP, Laravel, JavaScript ,React.js, MySQL**  
 - ⚙️ Building scalable and functinal websites with atmost optimization.
 - 🌱 Currently exploring **Node.js,Vue.js** and **Artificial Intelligence**  
 - 💬 Ask me about **Laravel architecture, React components or API integrations**  
