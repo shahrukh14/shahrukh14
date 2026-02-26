@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">Hola 👋, I'm Mohammed Shahrukh</h1>
+<h1 align="center">Hii 👋, I'm Mohammed Shahrukh</h1>
 <h3 align="center">Full Stack Developer |PHP• Laravel • React JS • SQL</h3>
 
 ----
