@@ -9,7 +9,7 @@
 - ⚙️ Building scalable and functinal websites with atmost optimization.
 - 🌱 Currently exploring **Node.js,Vue.js** and **Artificial Intelligence**  
 - 💬 Ask me about **Laravel architecture, React components or API integrations**  
-- 📫 Reach me at **mohammedshahrukhalam@email.com**  
+- 📫 Mail me at **mohammedshahrukhalam@email.com**  
 - 📍 Based in **Bhubaneswar, India**
 
 ---
